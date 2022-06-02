@@ -22,4 +22,4 @@ Standalone SCope apps for macOS and Linux can be downloaded from [here](https://
 SCope was developed and is maintained by [Aerts lab](https://www.aertslab.org/).
 
 ## Data availability
-Raw and processed sequencing data for **cCUT&RUN**, **RNA-seq** and **scRNA-seq** can be found here: [GSE191286](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE191286).
+Raw and processed sequencing data for **scRNA-seq** can be found here: [GSE191286](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE191286).
